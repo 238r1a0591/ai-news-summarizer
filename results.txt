@@ -1,0 +1,35 @@
+--- Article 1 ---
+Generated Summary:  The Palestinian Authority becomes the 123rd member of the International Criminal Court . The move gives the court jurisdiction over alleged crimes in Palestinian territories . Israel and the United States opposed the Palestinians' efforts to join the court .
+ROUGE-1: 0.535 | ROUGE-2: 0.377 | ROUGE-L: 0.479
+--- Article 2 ---
+Generated Summary:  Theia is a one-year-old bully breed mix who was hit by a car and buried in a field . She was found by a worker who took her to a vet for help . She suffered a dislocated jaw, leg injuries and a caved-in sinus cavity . A fundraising page has raised enough money to pay for her treatment .
+ROUGE-1: 0.510 | ROUGE-2: 0.200 | ROUGE-L: 0.412
+--- Article 3 ---
+Generated Summary:  Mohammad Javad Zarif is the Iranian foreign minister . He has been John Kerry's opposite number in securing a breakthrough in nuclear talks . He received a hero's welcome as he arrived in Iran on a sunny Friday morning .
+ROUGE-1: 0.405 | ROUGE-2: 0.194 | ROUGE-L: 0.270
+--- Article 4 ---
+Generated Summary:  The five were exposed to Ebola in Sierra Leone in March, but none developed the deadly virus . One of the five had a heart-related issue on Saturday and has been discharged but hasn't left the area .
+ROUGE-1: 0.375 | ROUGE-2: 0.154 | ROUGE-L: 0.300
+--- Article 5 ---
+Generated Summary:  A Duke student has admitted to hanging a noose from a tree near a student union, university officials say . The student was identified during an investigation by campus police and the office of student affairs . Officials are still trying to determine if other people were involved .
+ROUGE-1: 0.455 | ROUGE-2: 0.093 | ROUGE-L: 0.227
+--- Article 6 ---
+Generated Summary:  Trey Moses was originally going to take his girlfriend, Ellie Meredith, to the prom instead . "She's great... she listens and she's easy to talk to," he says . Ellie Meredith has Down syndrome .
+ROUGE-1: 0.172 | ROUGE-2: 0.071 | ROUGE-L: 0.103
+--- Article 7 ---
+Generated Summary:  Amnesty International's annual report catalogs use of state-sanctioned killing as a punitive measure across the globe . On one hand, the number of executions worldwide has gone down by almost 22% on the previous year . At least 607 people were executed around the world in 2014, compared to 778 in 2013 . The organization notes some encouraging signs, with most regions seeming to show reductions .
+ROUGE-1: 0.538 | ROUGE-2: 0.256 | ROUGE-L: 0.336
+--- Article 8 ---
+Generated Summary:  Andrew Getty appears to have died of natural causes, police say . The coroner's preliminary assessment is there was no foul play involved in Getty's death . Andrew Getty was found on his side near a bathroom in his home, KTLA reports . The 47-year-old was grandson of oil tycoon J. Paul Getty .
+ROUGE-1: 0.347 | ROUGE-2: 0.167 | ROUGE-L: 0.286
+--- Article 9 ---
+Generated Summary:  Tropical storm Maysak expected to make landfall Sunday morning on southeastern coast of Isabela province . Authorities are barring outdoor activities like swimming, surfing, diving and boating in some locales .
+ROUGE-1: 0.182 | ROUGE-2: 0.038 | ROUGE-L: 0.145
+--- Article 10 ---
+Generated Summary:  Bob Barker returned to "The Price Is Right" for the first time in eight years . The 91-year-old hosted the show for 35 years before stepping down in 2007 .
+ROUGE-1: 0.490 | ROUGE-2: 0.340 | ROUGE-L: 0.490
+
+=== AVERAGE SCORES over 10 articles ===
+Avg ROUGE-1: 0.401
+Avg ROUGE-2: 0.189
+Avg ROUGE-L: 0.305
